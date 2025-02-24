@@ -1,4 +1,4 @@
-## Hi there SUV SPORTS AREANA
+## Hi there SUV SPORTS ARENA
 
 <!--
 **Suvsportsarena/suvsportsarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
