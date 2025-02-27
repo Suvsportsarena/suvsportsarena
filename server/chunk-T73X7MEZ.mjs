@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as e,b as r,c as n,d as p,e as i,l as m,n as s,o as a,r as f,x as c}from"./chunk-RMPKOU42.mjs";var d=(()=>{class t{constructor(){this.title="suv_sports_arena"}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275cmp=e({type:t,selectors:[["app-root"]],standalone:!0,features:[i],decls:2,vars:0,consts:[[2,"text-align","center"]],template:function(o,A){o&1&&(r(0,"h1",0),p(1,"SUV Sports Arena"),n())}})}}return t})();var l=[];var u={providers:[c(l),a()]};var C={providers:[f()]},v=m(u,C);var x=()=>s(d,v),U=x;export{U as a};
